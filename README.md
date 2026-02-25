@@ -10,7 +10,7 @@ A character management dashboard built with **Nuxt 3**, **Vue 3**, **Pinia** and
 ### Installation
 
 ```bash
-git clone https://github.com/chemarodrigo/rick-morty-dashboard.git
+git clone https://github.com/chemarodrigo/rick-morty_dashboard.git
 cd rick-morty-dashboard
 npm install
 npm run dev
@@ -81,7 +81,7 @@ Panel de gestión de personajes construido con **Nuxt 3**, **Vue 3**, **Pinia** 
 ### Instalación
 
 ```bash
-git clone https://github.com/chemarodrigo/rick-morty-dashboard.git
+git clone https://github.com/chemarodrigo/rick-morty_dashboard.git
 cd rick-morty-dashboard
 npm install
 npm run dev
