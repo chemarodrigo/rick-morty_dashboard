@@ -1,6 +1,7 @@
 # 🛸 Rick & Morty Dashboard
 
 A character management dashboard built with **Nuxt 3**, **Vue 3**, **Pinia** and **Tailwind CSS**
+Demo: **https://rick-morty-dashboard-opal.vercel.app/login**
 
 ## 🚀 Getting started
 
@@ -9,14 +10,17 @@ A character management dashboard built with **Nuxt 3**, **Vue 3**, **Pinia** and
 
 ### Installation
 
+1 - Download the full repository (Zip)
+
+2 - In folder, run the terminal and type:
 ```bash
-git clone https://github.com/chemarodrigo/rick-morty_dashboard.git
-cd rick-morty-dashboard
 npm install
+```
+3 - Then, type:
+```bash
 npm run dev
 ```
-
-Open **http://localhost:3000** — use any valid email and a password longer than 6 characters to log in.
+4 - Open **http://localhost:3000** — use any valid email and a password longer than 6 characters to log in.
 
 ### Tests
 
@@ -71,7 +75,8 @@ npm test
 
 # 🛸 Rick & Morty Dashboard (ESPAÑOL)
 
-Panel de gestión de personajes construido con **Nuxt 3**, **Vue 3**, **Pinia** y **Tailwind CSS** como prueba técnica.
+Panel de gestión de personajes construido con **Nuxt 3**, **Vue 3**, **Pinia** y **Tailwind CSS**
+Demo: **https://rick-morty-dashboard-opal.vercel.app/login**
 
 ## 🚀 Primeros pasos
 
@@ -80,14 +85,17 @@ Panel de gestión de personajes construido con **Nuxt 3**, **Vue 3**, **Pinia** 
 
 ### Instalación
 
+1 - Descarga el repositorio completo (Zip)
+
+2 - Dentro de la carpeta, inicia la terminal y escribe:
 ```bash
-git clone https://github.com/chemarodrigo/rick-morty_dashboard.git
-cd rick-morty-dashboard
 npm install
+```
+3 - Luego, escribe:
+```bash
 npm run dev
 ```
-
-Abre **http://localhost:3000** — usa cualquier email válido y una contraseña de más de 6 caracteres para iniciar sesión.
+4- Abre **http://localhost:3000** — usa cualquier email válido y una contraseña de más de 6 caracteres para iniciar sesión.
 
 ### Tests
 
