@@ -1,6 +1,6 @@
 # 🛸 Rick & Morty Dashboard
 
-A character management dashboard built with **Nuxt 3**, **Vue 3**, **Pinia** and **Tailwind CSS** as a technical assessment for Óptima Cultura.
+A character management dashboard built with **Nuxt 3**, **Vue 3**, **Pinia** and **Tailwind CSS**
 
 ## 🚀 Getting started
 
